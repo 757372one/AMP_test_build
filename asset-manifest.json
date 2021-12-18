@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.89f65c45.chunk.css",
+    "main.js": "/static/js/main.cc13e3d6.chunk.js",
+    "main.js.map": "/static/js/main.cc13e3d6.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.bf8ab1cc.js",
+    "runtime-main.js.map": "/static/js/runtime-main.bf8ab1cc.js.map",
+    "static/js/2.28a9d54e.chunk.js": "/static/js/2.28a9d54e.chunk.js",
+    "static/js/2.28a9d54e.chunk.js.map": "/static/js/2.28a9d54e.chunk.js.map",
+    "static/js/3.f595ff7b.chunk.js": "/static/js/3.f595ff7b.chunk.js",
+    "static/js/3.f595ff7b.chunk.js.map": "/static/js/3.f595ff7b.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.89f65c45.chunk.css.map": "/static/css/main.89f65c45.chunk.css.map",
+    "static/js/2.28a9d54e.chunk.js.LICENSE.txt": "/static/js/2.28a9d54e.chunk.js.LICENSE.txt",
+    "static/media/cloud.23a7ff3a.png": "/static/media/cloud.23a7ff3a.png",
+    "static/media/example.cabbb1b4.gif": "/static/media/example.cabbb1b4.gif",
+    "static/media/App.scss": "/static/media/face.317c4c21.png",
+    "static/media/wormhole.98df762f.jpg": "/static/media/wormhole.98df762f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bf8ab1cc.js",
+    "static/js/2.28a9d54e.chunk.js",
+    "static/css/main.89f65c45.chunk.css",
+    "static/js/main.cc13e3d6.chunk.js"
+  ]
+}
